@@ -1,4 +1,6 @@
-package main
+// +build ignore
+
+package helloword
 
 import "fmt"
 
